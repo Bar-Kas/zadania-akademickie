@@ -1,0 +1,5 @@
+[
+  "test.py::test_task6_basic_input",
+  "test.py::test_task6_empty_input",
+  "test.py::test_task7_tuple_behavior"
+]
