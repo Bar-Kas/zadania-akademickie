@@ -1,0 +1,10 @@
+[
+  "test.py::test_get_avg_marks_raises_on_no_marks",
+  "test.py::test_give_name_validation_and_representation",
+  "test.py::test_index_assignment_and_comparisons",
+  "test.py::test_marks_and_average",
+  "test.py::test_quantity_increases_on_creation",
+  "test.py::test_task4_hello_after_name",
+  "test.py::test_task4_initial_name_invalid",
+  "test.py::test_task4_name_is_valid_prints_true"
+]
