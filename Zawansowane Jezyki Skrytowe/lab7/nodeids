@@ -1,0 +1,8 @@
+[
+  "test.py::test_date_invalid_format",
+  "test.py::test_date_valid_dashes",
+  "test.py::test_date_valid_slashes",
+  "test.py::test_gmail_invalid_domain",
+  "test.py::test_gmail_invalid_uppercase",
+  "test.py::test_gmail_valid"
+]
