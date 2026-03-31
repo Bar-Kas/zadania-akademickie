@@ -1,0 +1,1 @@
+To jest prosty tekst testowy. Ten tekst testowy zawiera powtarzające się słowa, aby statystyka wyrazów miała co robić. Słowa, słowa, jeszcze raz słowa! Pamiętaj, że słowa krótsze niż trzy litery, takie jak "to", "za" czy "do", powinny zostać zignorowane przez Twój algorytm. Interfejsy funkcyjne to na przykład Predicate, Consumer oraz Function.

@@ -1,0 +1,1 @@
+Java to obiektowy język programowania. Programowanie w Javie jest bardzo popularne i wszechstronne. Java posiada wbudowane wsparcie dla wielowątkowości, co pozwala na tworzenie szybkich aplikacji. Strumienie w Javie ułatwiają pracę na kolekcjach danych. Programowanie obiektowe i funkcyjne to dwa różne paradygmaty, ale Java potrafi je świetnie łączyć.
